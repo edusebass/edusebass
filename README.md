@@ -21,5 +21,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" weight="50" height="50" tittle="JS" alt="JS"></img>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkJ0NbLBUC2zEjagtSfIkNtRK7wZLEnkrMQ&usqp=CAU" weight="50" height="50" tittle="Botstrap" alt="bots"></img>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbi9aVFq2CV5UxsEhDk4L5Hk_u4nHnSTnsWhnOUNRg4mfdOfWZfJoPGLZL01QvgvIDT8Q&usqp=CAU" weight="50" height="50" tittle="linux" alt="linux"></img>
-  
 </div>
+
+---
+### My stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edusebass&theme=dark)](https://git.io/streak-stats)
