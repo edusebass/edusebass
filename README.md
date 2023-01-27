@@ -1,9 +1,9 @@
-### Hi there 👋
 
-
-**edusebass/edusebass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div align="center";>
+    <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" height= 200px;></img>
+    <h1>Hi, I`m Eduardo Almachi</h1>
+    <h3>I am Software Developer. I like learn code. I am professional </h3>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
