@@ -1,6 +1,4 @@
-<style>
-  backgroundcolor = "red";
-</style>
+
 <div align="center";>
   <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" height= 200px;></img>
   <h1>Hi, I`m Eduardo Almachi</h1>
