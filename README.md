@@ -10,7 +10,7 @@
 <div>
   <a>- 🌱 I’m currently learning C++, Javascript, ps1, Python</a>
   <br>
-  <a>- ⚡ Fun fact: I know loops in python </a>
+  <a>- Visit my YOUTUBE CHANNEL </a>
 </div>
 <div align="left">
   <h3>Language and Tools</h3>  
