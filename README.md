@@ -5,7 +5,6 @@
   <h1>Hi, I`m Eduardo Almachi</h1>
   <h3>I am Software Developer. I like learn code. I am professional </h3>
 </div>
-<hr style="width:50%";>
 <div>
   <a>In this moment I am learning JAVA</a>
   <br>
