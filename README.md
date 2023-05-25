@@ -8,7 +8,7 @@
 <div>
   <a>In this moment I am learning JAVA</a>
   <br>
-  <a>- Visit my YOUTUBE CHANNEL </a>
+  
 </div>
 <div align="left">
   <h3>Language and Tools</h3>  
