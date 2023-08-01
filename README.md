@@ -1,14 +1,15 @@
 <div>
-  <img src="img/BANNER.png">
+  <img src="img/BANNER.png" height=210>
 </div>
 <div align="center">
   
   <h1>I'm Eduardo Almachi</h1>
   <h3>A lo largo de mi trayectoria, he aprendido a trabajar con diversos lenguajes de programación y herramientas tecnológicas, lo que me ha permitido desarrollar habilidades sólidas en el desarrollo de software.
-  
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="200px"></img>
 
-  Mi pasión por el aprendizaje continuo me ha llevado a explorar diversas áreas, desde el desarrollo web hasta la programación de aplicaciones móviles y el análisis de datos.</h3>
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="200px"></img>
+
+Mi pasión por el aprendizaje continuo me ha llevado a explorar diversas áreas, desde el desarrollo web hasta la programación de aplicaciones móviles y el análisis de datos.</h3>
+
 </div>
 <div>
 
