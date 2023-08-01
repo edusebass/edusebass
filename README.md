@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="200px"></img>
   <h1>I'm Eduardo Almachi</h1>
   <h3>A lo largo de mi trayectoria, he aprendido a trabajar con diversos lenguajes de programación y herramientas tecnológicas, lo que me ha permitido desarrollar habilidades sólidas en el desarrollo de software.
-  
+  <br>
   Mi pasión por el aprendizaje continuo me ha llevado a explorar diversas áreas, desde el desarrollo web hasta la programación de aplicaciones móviles y el análisis de datos.</h3>
 </div>
 <div>
@@ -17,8 +17,8 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="50" height="50" title="HTML" alt="HTML">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAxQmQ8M716AejClkT8HIvw80bHKHnHu-raqJmSsenQ1E-B3mz6m_7kUz7mb-2ug3rQI&usqp=CAU" width="50" height="50" title="CSS" alt="CSS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" title="JS" alt="JS">
-
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbi9aVFq2CV5UxsEhDk4L5Hk_u4nHnSTnsWhnOUNRg4mfdOfWZfJoPGLZL01QvgvIDT8Q&usqp=CAU" width="50" height="50" title="Linux" alt="Linux">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&psig=AOvVaw2vGqoSeL5SbCW1FgbYOiFD&ust=1691006769467000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCqjpuhvIADFQAAAAAdAAAAABAE" width="50" height="50" title="Jupyter" alt="Jupyter">
 
     ### My stats
 
