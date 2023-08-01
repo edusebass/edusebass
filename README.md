@@ -33,7 +33,8 @@
 
 ### 📚Estadisticas
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edusebass&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusebass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edusebass&theme=dark)](https://git.io/streak-stats)
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css">
