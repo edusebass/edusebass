@@ -22,7 +22,7 @@
   <img src="img/mysql.png" width="50" height="50" title="mysql" alt="mysql">
   <img src="img/sqlserver.png" width="50" height="50" title="sql" alt="sql">
   <img src="img/couch.png" width="50" height="50" title="couch" alt="couch">
-  <img src="img/java.png" width="50" height="50" title="java" alt="java">
+  <img src="img/java.jpg" width="50" height="50" title="java" alt="java">
 
     ### My stats
 
