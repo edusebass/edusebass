@@ -1,3 +1,12 @@
+<style>
+  body {
+    background-color: #f2f2f2;
+  }
+  h1, h2, h3, p {
+    color: #333;
+  }
+</style>
+
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="200px"></img>
   <h1>I'm Eduardo Almachi</h1>
