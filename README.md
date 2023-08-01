@@ -16,6 +16,11 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="50" height="50" title="HTML" alt="HTML">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAxQmQ8M716AejClkT8HIvw80bHKHnHu-raqJmSsenQ1E-B3mz6m_7kUz7mb-2ug3rQI&usqp=CAU" width="50" height="50" title="CSS" alt="CSS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" title="JS" alt="JS">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkJ0NbLBUC2zEjagtSfIkNtRK7wZLEnkrMQ&usqp=CAU" width="50" height="50" title="Bootstrap" alt="Bootstrap">
+
+
+  ### My stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edusebass&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusebass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbi9aVFq2CV5UxsEhDk4L5Hk_u4nHnSTnsWhnOUNRg4mfdOfWZfJoPGLZL01QvgvIDT8Q&usqp=CAU" width="50" height="50" title="Linux" alt="Linux">
 </div>
