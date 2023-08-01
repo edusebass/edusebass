@@ -39,12 +39,4 @@ Mi pasión por el aprendizaje continuo me ha llevado a explorar diversas áreas,
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css">
 
-<a href="mailto:edu03sebas@gmail.com"><i class="fab fa-google"></i></a>
-<a href="archivos/curri.pdf" target="_blank"><i class="far fa-file-pdf"></i></a>
-<a href="https://github.com/edusebass" target="_blank"><i class="fab fa-github"></i></a>
-<a href="https://wa.me/5930986572316" target="_blank"><i class="fab fa-whatsapp"></i></a>
-<a href="https://www.linkedin.com/in/eduardo-almachi-727730238/" target="_blank"><i class="fab fa-linkedin"></i></a>
-<a href="https://twitter.com/edusebas2003" target="_blank"><i class="fab fa-twitter-square"></i></a>
-<a href="mailto:eduardoalmachi123@hotmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
 
-</div>
