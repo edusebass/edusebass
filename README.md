@@ -25,9 +25,12 @@
   <img src="img/sqlserver.png" width="50" height="50" title="sql" alt="sql">
   <img src="img/couch.png" width="50" height="50" title="couch" alt="couch">
   <img src="img/java.jpg" width="50" height="50" title="java" alt="java">
-</div>
 
-<div class="social-networks" align="center">
+### My stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edusebass&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusebass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css">
 
 <a href="mailto:edu03sebas@gmail.com"><i class="fab fa-google"></i></a>
@@ -37,9 +40,5 @@
 <a href="https://www.linkedin.com/in/eduardo-almachi-727730238/" target="_blank"><i class="fab fa-linkedin"></i></a>
 <a href="https://twitter.com/edusebas2003" target="_blank"><i class="fab fa-twitter-square"></i></a>
 <a href="mailto:eduardoalmachi123@hotmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+
 </div>
-
-### My stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edusebass&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusebass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
