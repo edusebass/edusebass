@@ -34,10 +34,19 @@
 ### 📱CONTACTO
 
   <a href="mailto:edu03sebas@gmail.com" target="_blank">
-    <img src="img/gmail.png" width="50" height="50" title="gmail" alt="Gmail">
+    <img src="img/gmail.png" width="50" height="50" title="Gmail" alt="Gmail">
   </a>
   <a href="img/cv.pdf" target="_blank">
-    <img src="img/curri.png" width="50" height="50" title="gmail" alt="Gmail">
+    <img src="img/curri.png" width="50" height="50" title="Hoja de vida">
+  </a>
+  <a href="https://wa.me/5930986572316" target="_blank">
+    <img src="img/wh.png" width="50" height="50" title="Hoja de vida">
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-almachi-727730238/" target="_blank">
+    <img src="img/linkedin.webp" width="50" height="50" title="Linkendin">
+  </a>
+  <a href="mailto:eduardoalmachi123@hotmail.com" target="_blank">
+    <img src="img/correo.png" width="50" height="50" title="Correo">
   </a>
 
 ### 📚Estadisticas
