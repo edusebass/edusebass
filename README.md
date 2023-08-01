@@ -18,7 +18,11 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAxQmQ8M716AejClkT8HIvw80bHKHnHu-raqJmSsenQ1E-B3mz6m_7kUz7mb-2ug3rQI&usqp=CAU" width="50" height="50" title="CSS" alt="CSS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" title="JS" alt="JS">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbi9aVFq2CV5UxsEhDk4L5Hk_u4nHnSTnsWhnOUNRg4mfdOfWZfJoPGLZL01QvgvIDT8Q&usqp=CAU" width="50" height="50" title="Linux" alt="Linux">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&psig=AOvVaw2vGqoSeL5SbCW1FgbYOiFD&ust=1691006769467000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCqjpuhvIADFQAAAAAdAAAAABAE" width="50" height="50" title="Jupyter" alt="Jupyter">
+  <img src="img/jupyter.png" width="50" height="50" title="Jupyter" alt="Jupyter">
+  <img src="img/mysql.png" width="50" height="50" title="mysql" alt="mysql">
+  <img src="img/sqlserver.png" width="50" height="50" title="sql" alt="sql">
+  <img src="img/couch.png" width="50" height="50" title="couch" alt="couch">
+  <img src="img/java.png" width="50" height="50" title="java" alt="java">
 
     ### My stats
 
