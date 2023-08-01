@@ -17,7 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="50" height="50" title="Python" alt="Python">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eQAW43SFADt2Edew9i4MuGgC4vZTRxpsn40eRNoSoF7Pq1VjRb2J1Bds1Z1Kerzzd0s&usqp=CAU" width="50" height="50" title="Shell" alt="Shell">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="50" height="50" title="HTML" alt="HTML">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAxQmQ8M716AejClkT8HIvw80bHKHnHu-raqJmSsenQ1E-B3mz6m_7kUz7mb-2ug3rQI&usqp=CAU" width="50" height="50" title="CSS" alt="CSS">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAxQmQ8M716AejClkT8HIvw80bHKHnHu-raqJmSsenQ1E-B3mz6m_7kUz7mb-2ug3rQI&usqp=CAU" width="35" height="50" title="CSS" alt="CSS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" title="JS" alt="JS">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbi9aVFq2CV5UxsEhDk4L5Hk_u4nHnSTnsWhnOUNRg4mfdOfWZfJoPGLZL01QvgvIDT8Q&usqp=CAU" width="50" height="50" title="Linux" alt="Linux">
   <img src="img/jupyter.png" width="50" height="50" title="Jupyter" alt="Jupyter">
@@ -36,11 +36,12 @@
 <div class="social-networks" align="center">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css">
 
-  <a href="mailto:edu03sebas@gmail.com"><i class="fab fa-google"></i></a>
-  <a href="archivos/curri.pdf" target="_blank"><i class="far fa-file-pdf"></i></a>
-  <a href="https://github.com/edusebass" target="_blank"><i class="fab fa-github"></i></a>
-  <a href="https://wa.me/5930986572316" target="_blank"><i class="fab fa-whatsapp"></i></a>
-  <a href="https://www.linkedin.com/in/eduardo-almachi-727730238/" target="_blank"><i class="fab fa-linkedin"></i></a>
-  <a href="https://twitter.com/edusebas2003" target="_blank"><i class="fab fa-twitter-square"></i></a>
-  <a href="mailto:eduardoalmachi123@hotmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+<a href="mailto:edu03sebas@gmail.com"><i class="fab fa-google"></i></a>
+<a href="archivos/curri.pdf" target="_blank"><i class="far fa-file-pdf"></i></a>
+<a href="https://github.com/edusebass" target="_blank"><i class="fab fa-github"></i></a>
+<a href="https://wa.me/5930986572316" target="_blank"><i class="fab fa-whatsapp"></i></a>
+<a href="https://www.linkedin.com/in/eduardo-almachi-727730238/" target="_blank"><i class="fab fa-linkedin"></i></a>
+<a href="https://twitter.com/edusebas2003" target="_blank"><i class="fab fa-twitter-square"></i></a>
+<a href="mailto:eduardoalmachi123@hotmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+
 </div>
