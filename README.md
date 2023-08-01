@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="200px"></img>
-  <h1>Hi, I'm Eduardo Almachi</h1>
-  <h3>I am a Software Developer. I like to learn code. I am a professional</h3>
+  <h1>I'm Eduardo Almachi</h1>
+  <h3>A lo largo de mi trayectoria, he aprendido a trabajar con diversos lenguajes de programación y herramientas tecnológicas, lo que me ha permitido desarrollar habilidades sólidas en el desarrollo de software.
+  
+  Mi pasión por el aprendizaje continuo me ha llevado a explorar diversas áreas, desde el desarrollo web hasta la programación de aplicaciones móviles y el análisis de datos.</h3>
 </div>
 <div>
-  <a>In this moment, I am learning JAVA</a>
-  <br>
+
 </div>
 <div align="center"> <!-- Change to center alignment -->
   <h3>Language and Tools</h3>
@@ -17,10 +18,11 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAxQmQ8M716AejClkT8HIvw80bHKHnHu-raqJmSsenQ1E-B3mz6m_7kUz7mb-2ug3rQI&usqp=CAU" width="50" height="50" title="CSS" alt="CSS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" title="JS" alt="JS">
 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbi9aVFq2CV5UxsEhDk4L5Hk_u4nHnSTnsWhnOUNRg4mfdOfWZfJoPGLZL01QvgvIDT8Q&usqp=CAU" width="50" height="50" title="Linux" alt="Linux">
 
-  ### My stats
+    ### My stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edusebass&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusebass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbi9aVFq2CV5UxsEhDk4L5Hk_u4nHnSTnsWhnOUNRg4mfdOfWZfJoPGLZL01QvgvIDT8Q&usqp=CAU" width="50" height="50" title="Linux" alt="Linux">
 </div>
