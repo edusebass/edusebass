@@ -36,7 +36,7 @@
   <a href="mailto:edu03sebas@gmail.com" target="_blank">
     <img src="img/gmail.png" width="50" height="50" title="Gmail" alt="Gmail">
   </a>
-  <a href="src/cv.pdf" target="_blank">
+  <a href="EduardoAlmachiCV.pdf" target="_blank">
     <img src="img/curri.png" width="50" height="50" title="Hoja de vida">
   </a>
   <a href="https://wa.me/5930986572316" target="_blank">
